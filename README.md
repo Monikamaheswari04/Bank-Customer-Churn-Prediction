@@ -87,7 +87,7 @@ Visualization tools include:
 ------------------------------------------------------------------------
 
 ## 🏆 Best Performing Model
-Based on standard churn datasets, Random Forest and Gradient Boosting/XGBoost typically perform the best due to their ability to capture nonlinear patterns.
+Gradient Boosting achieved ~86% accuracy and balanced performance. 
 
 ------------------------------------------------------------------------
 
